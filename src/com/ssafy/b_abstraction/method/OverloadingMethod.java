@@ -32,7 +32,8 @@ public class OverloadingMethod {
 	}
 	
 	//두개의 숫자(int, double) 아규먼트로 전달받아 결과 반환하는 메서드: 중복정의
-	public double add(int no1, double no2) {
+	//public double add(int no1, double no2) {
+	public double add(double no1, double no2) {
 		System.out.println("C");
 		double result = no1 + no2;
 		return result;
@@ -46,9 +47,21 @@ public class OverloadingMethod {
 	//스태틱 메서드: static 멤버는 객체생성없이사용. 직접객체 생성해서 사용.
 	public static void main(String[] args) {
 		//class(static) 메서드는 객체 생성하지 않고 static main() 메서드에서 사용가능
-		int result = add(10,20);
+		int result = add(10,20);// int, int
+		System.out.println(result);
 		
 		//instance 메서드는 객체 생성후에 참조변수 접근 사용
+		OverloadingMethod test = new OverloadingMethod();
+		test.add(10, 10.588998); // int, double => C
+		test.add(10, 10.588998f); 
+		// 에러발생 ==>1.해당 메서드 매핑x
+		//		  ==>2. add(float, float) => 존재하지 않음: 컴파일 오류발생.
+		//		  ==>3. add(double, double) 메서드 변경 =>
+		
+		//1. 메서드 호출시에 메서드이름, 아규먼트 갯수, 순서, 타입 채킹 매핑되면 수행.
+		//2. 메서드 호출시에 메서드이름, 아규먼트 갯수, 순서, 타입 채킹 매핑되지 않으면 큰타입(자동형변환)
+		test.add(10.66565f, 10.588998f); // f, f => B
+		test.add(10.66565f, 10.588998); // f, d => C
 		
 	}
 	
