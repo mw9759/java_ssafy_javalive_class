@@ -2,6 +2,7 @@ package com.ssafy.b_abstraction.person;
 
 public class PersonTest2 {
 
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		System.out.println(Person2.org);
 		
