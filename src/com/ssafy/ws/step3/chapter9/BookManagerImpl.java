@@ -167,46 +167,32 @@ public class BookManagerImpl implements IBookManager {
 	}
 
 	@Override
-	public void sell(String isbn, int quantity) {
-		for(int i = 0; i < size; i++) {
-			if(books[i].getIsbn().equals(isbn)) {
-				if(books[i].getQuantity()-quantity>=0) {
-					books[i].setQuantity(books[i].getQuantity()-quantity);
-					System.out.println(searchByisbn(isbn));
-					return;
-				} else {
-					try {
-						throw new QuantityException();
-					} catch (QuantityException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-				}
-			}
-		}
-		try {
+	public void sell(String isbn, int quantity) throws ISBNNotFoundException, QuantityException {
+		int check = isBook(isbn);
+		if(check == -1) {
 			throw new ISBNNotFoundException(isbn);
-		} catch (ISBNNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
+		else if(books[check].getQuantity()-quantity < 0) {
+			throw new QuantityException();
+		}
+		else {
+			books[check].setQuantity(books[check].getQuantity()-quantity);
+			System.out.println(books[check]);
+		}
+		
 	}
 
 	@Override
-	public void buy(String isbn, int quantity) {
-		for(int i = 0; i < size; i++) {
-			if(books[i].getIsbn().equals(isbn)) {
-				books[i].setQuantity(books[i].getQuantity()+quantity);
-				System.out.println(searchByisbn(isbn));
-				return;
-			}
-		}
-		try {
+	public void buy(String isbn, int quantity) throws ISBNNotFoundException {
+		int check = isBook(isbn);
+		if(check == -1) {
 			throw new ISBNNotFoundException(isbn);
-		} catch (ISBNNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
+		else {
+			books[check].setQuantity(books[check].getQuantity()+quantity);
+			System.out.println(books[check]);
+		}
+		
 	}
 
 }

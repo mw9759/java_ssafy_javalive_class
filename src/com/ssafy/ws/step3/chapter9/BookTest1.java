@@ -69,7 +69,8 @@ public class BookTest1 {
 		mngr1.printHead("도서판매:21424,11개");
 		try {
 			mngr1.sell("21424", 11);
-		} catch (ISBNNotFoundException | QuantityException e) {
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
 			// TODO Auto-generated catch block
 		}
 		
@@ -78,18 +79,18 @@ public class BookTest1 {
 		mngr1.printHead("도서구매:21424,10개");
 		try {
 			mngr1.buy("21424", 10);
-		} catch (ISBNNotFoundException e1) {
+		} catch (Exception e1) {
 			// TODO Auto-generated catch block
-			e1.printStackTrace();
+			System.out.println(e1.getMessage());
 		}
 		
 		/*도서판매*/
 		mngr1.printHead("도서판매:21424,11개");
 		try {
 			mngr1.sell("21424", 11);
-		} catch (ISBNNotFoundException | QuantityException e) {
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			System.out.println(e.getMessage());
 		}
 	}
 }
