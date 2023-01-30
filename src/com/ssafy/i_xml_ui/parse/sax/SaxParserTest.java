@@ -13,6 +13,6 @@ public class SaxParserTest {
         for (BoxOffice boxOffice : list) {
             System.out.println(boxOffice);
         }
-
+ 
     }
 }
