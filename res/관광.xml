@@ -1,0 +1,246 @@
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			<item>
+				<trrsrtNm>어답산관광지</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>강원도 횡성군 갑천면 어답산로 516</rdnmadr>
+				<lnmadr>강원도 횡성군 갑천면 병지방리 539-1</lnmadr>
+				<latitude>37.59380861</latitude>
+				<longitude>128.0575207</longitude>
+				<ar>256567</ar>
+				<cnvnncFclty>캠핑장, 계곡</cnvnncFclty>
+				<stayngInfo>민박,펜션</stayngInfo>
+				<mvmAmsmtFclty>족구장</mvmAmsmtFclty>
+				<recrtClturFclty />
+				<hospitalityFclty />
+				<sportFclty />
+				<appnDate>1999-09-27</appnDate>
+				<aceptncCo>10000</aceptncCo>
+				<prkplceCo>400</prkplceCo>
+				<trrsrtIntrcn>병지방계곡,캠핑장</trrsrtIntrcn>
+				<phoneNumber>033-340-5981</phoneNumber>
+				<institutionNm>횡성군청</institutionNm>
+				<referenceDate>2021-07-22</referenceDate>
+				<insttCode>4260000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>구덕운동장</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>부산광역시 서구 망양로 57 (씨름체육관 서구 꽃마을로 156번길12)</rdnmadr>
+				<lnmadr>부산광역시 서구 서대신동3가 211-1</lnmadr>
+				<latitude>35.11659638</latitude>
+				<longitude>129.0145297</longitude>
+				<ar>71432</ar>
+				<cnvnncFclty>화장실</cnvnncFclty>
+				<stayngInfo />
+				<mvmAmsmtFclty>주경기장+야구장+체육관 등</mvmAmsmtFclty>
+				<recrtClturFclty />
+				<hospitalityFclty>관리사무소</hospitalityFclty>
+				<sportFclty />
+				<appnDate>1928-09-01</appnDate>
+				<aceptncCo>100</aceptncCo>
+				<prkplceCo>182</prkplceCo>
+				<trrsrtIntrcn>1920년 9월 조그만 동물원을 곁에 둔 넓은 빈터로 마을 체육대회 장소로 사용하다가 1928년
+					9월에 부산공설운동장으로 건립되었다가 1982년 사직운동장이 건립되어 그해 6월에 구덕운동장으로 개칭되었다.</trrsrtIntrcn>
+				<phoneNumber>051-602-2211</phoneNumber>
+				<institutionNm>부산광역시 체육시설관리사업소</institutionNm>
+				<referenceDate>2022-11-24</referenceDate>
+				<insttCode>3260000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>임시수도기념관</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>부산광역시 서구 임시수도기념로 45</rdnmadr>
+				<lnmadr>부산광역시 서구 부민동3가 22</lnmadr>
+				<latitude>35.10374876</latitude>
+				<longitude>129.0175954</longitude>
+				<ar>4774.2</ar>
+				<cnvnncFclty>화장실</cnvnncFclty>
+				<stayngInfo />
+				<mvmAmsmtFclty />
+				<recrtClturFclty>전시실 등</recrtClturFclty>
+				<hospitalityFclty>관리실</hospitalityFclty>
+				<sportFclty />
+				<appnDate>1984-06-25</appnDate>
+				<aceptncCo>40</aceptncCo>
+				<prkplceCo>18</prkplceCo>
+				<trrsrtIntrcn>6.25 당시 임시수도로서 국난극복의 역사적 현장을 길이 보전하여,후세에 물려줌으로서 민족사의
+					암울한 시기를 깨닫게 하고 조국통일과 번영의 산교육장으로 활용하고 있다.</trrsrtIntrcn>
+				<phoneNumber>051-244-6345</phoneNumber>
+				<institutionNm>부산광역시 서구청</institutionNm>
+				<referenceDate>2022-11-24</referenceDate>
+				<insttCode>3260000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>송도오션파크</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>부산광역시 서구 송도해변로 36</rdnmadr>
+				<lnmadr>부산광역시 서구 암남동 135-23</lnmadr>
+				<latitude>35.0727183</latitude>
+				<longitude>129.0174477</longitude>
+				<ar>19222.5</ar>
+				<cnvnncFclty>화장실+주차장</cnvnncFclty>
+				<stayngInfo />
+				<mvmAmsmtFclty>운동시설+해안산책로+광장</mvmAmsmtFclty>
+				<recrtClturFclty />
+				<hospitalityFclty>관리실</hospitalityFclty>
+				<sportFclty />
+				<appnDate>2017-04-17</appnDate>
+				<aceptncCo>100</aceptncCo>
+				<prkplceCo>88</prkplceCo>
+				<trrsrtIntrcn>「송도지구 복합해양휴양지 조성사업」일환으로 2017년에 완공된 「송도오션파크」는 관광객 및
+					주민들의 열린 공간인 축제의 광장과 힐링의 광장, 운동시설이 설치되어 있는 젊음의 광장이 조성되어 있다.</trrsrtIntrcn>
+				<phoneNumber>051-240-4081</phoneNumber>
+				<institutionNm>부산광역시 서구청</institutionNm>
+				<referenceDate>2022-11-24</referenceDate>
+				<insttCode>3260000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>치산관광지</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>경상북도 영천시 신녕면 신암길 17</rdnmadr>
+				<lnmadr>경상북도 영천시 신녕면 치산리 1344-3</lnmadr>
+				<latitude>36.04693281</latitude>
+				<longitude>128.712821</longitude>
+				<ar>270000.00</ar>
+				<cnvnncFclty>공용화장실+공영주차장</cnvnncFclty>
+				<stayngInfo>캐라반 6인용+캐빈하우스+캐라반 8인용</stayngInfo>
+				<mvmAmsmtFclty>족구장</mvmAmsmtFclty>
+				<recrtClturFclty>치산캠핑장</recrtClturFclty>
+				<hospitalityFclty>소공연장</hospitalityFclty>
+				<sportFclty>전용숙소</sportFclty>
+				<appnDate>1990-12-31</appnDate>
+				<aceptncCo>1124</aceptncCo>
+				<prkplceCo>281</prkplceCo>
+				<trrsrtIntrcn>수려하고 맑은물이 흐르는 치산계곡이 있어 여름철 30,000명 이상이 찾는 관광명소임</trrsrtIntrcn>
+				<phoneNumber>054-330-6582</phoneNumber>
+				<institutionNm>경상북도 영천시청</institutionNm>
+				<referenceDate>2022-11-28</referenceDate>
+				<insttCode>5100000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>영산포 역사갤러리</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>전라남도 나주시 영산3길 17</rdnmadr>
+				<lnmadr>전라남도 나주시 영산동 247-2</lnmadr>
+				<latitude>35.00072134</latitude>
+				<longitude>126.7115039</longitude>
+				<ar>281</ar>
+				<cnvnncFclty>화장실</cnvnncFclty>
+				<stayngInfo />
+				<mvmAmsmtFclty />
+				<recrtClturFclty>갤러리 전시</recrtClturFclty>
+				<hospitalityFclty>전시관</hospitalityFclty>
+				<sportFclty>홈페이지 운영</sportFclty>
+				<appnDate>2015-10-15</appnDate>
+				<aceptncCo>30</aceptncCo>
+				<prkplceCo>0</prkplceCo>
+				<trrsrtIntrcn>박물관</trrsrtIntrcn>
+				<phoneNumber>061-331-1755</phoneNumber>
+				<institutionNm>전라남도 나주시청</institutionNm>
+				<referenceDate>2022-11-30</referenceDate>
+				<insttCode>4830000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>나주복암리고분전시관</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>전라남도 나주시 다시면 백호로 287</rdnmadr>
+				<lnmadr>전라남도 나주시 다시면 복암리 71</lnmadr>
+				<latitude>34.99608962</latitude>
+				<longitude>126.6570592</longitude>
+				<ar>42211</ar>
+				<cnvnncFclty>화장실</cnvnncFclty>
+				<stayngInfo />
+				<mvmAmsmtFclty>야외공원</mvmAmsmtFclty>
+				<recrtClturFclty>영상체험관</recrtClturFclty>
+				<hospitalityFclty>카페+전시관</hospitalityFclty>
+				<sportFclty>홈페이지 운영</sportFclty>
+				<appnDate>2016-04-30</appnDate>
+				<aceptncCo>650</aceptncCo>
+				<prkplceCo>56</prkplceCo>
+				<trrsrtIntrcn>박물관</trrsrtIntrcn>
+				<phoneNumber>061-337-0090</phoneNumber>
+				<institutionNm>전라남도 나주시청</institutionNm>
+				<referenceDate>2022-11-30</referenceDate>
+				<insttCode>4830000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>일본인근대가옥</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>전라남도 나주시 예향로 3869-4</rdnmadr>
+				<lnmadr>전라남도 나주시 영산동 660</lnmadr>
+				<latitude>34.99946578</latitude>
+				<longitude>126.7131249</longitude>
+				<ar>226</ar>
+				<cnvnncFclty>화장실</cnvnncFclty>
+				<stayngInfo />
+				<mvmAmsmtFclty />
+				<recrtClturFclty>복지프로그램</recrtClturFclty>
+				<hospitalityFclty>가옥내 접객실</hospitalityFclty>
+				<sportFclty>홈페이지 운영</sportFclty>
+				<appnDate>2016-06-10</appnDate>
+				<aceptncCo>10</aceptncCo>
+				<prkplceCo>2</prkplceCo>
+				<trrsrtIntrcn>근대가옥</trrsrtIntrcn>
+				<phoneNumber>061-334-7726</phoneNumber>
+				<institutionNm>전라남도 나주시청</institutionNm>
+				<referenceDate>2022-11-30</referenceDate>
+				<insttCode>4830000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>빛가람호수공원전망대</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>전라남도 나주시 호수로 77</rdnmadr>
+				<lnmadr>전라남도 나주시 빛가람동 산4-321</lnmadr>
+				<latitude>35.01683337</latitude>
+				<longitude>126.7904361</longitude>
+				<ar>24000</ar>
+				<cnvnncFclty>화장실</cnvnncFclty>
+				<stayngInfo />
+				<mvmAmsmtFclty>돌미끄럼틀+모노레일</mvmAmsmtFclty>
+				<recrtClturFclty>전망대+갤러리</recrtClturFclty>
+				<hospitalityFclty>카페+전시관</hospitalityFclty>
+				<sportFclty />
+				<appnDate>2016-07-08</appnDate>
+				<aceptncCo>1000</aceptncCo>
+				<prkplceCo>104</prkplceCo>
+				<trrsrtIntrcn>공원</trrsrtIntrcn>
+				<phoneNumber>061-333-1501</phoneNumber>
+				<institutionNm>전라남도 나주시청</institutionNm>
+				<referenceDate>2022-11-30</referenceDate>
+				<insttCode>4830000</insttCode>
+			</item>
+			<item>
+				<trrsrtNm>최참판댁</trrsrtNm>
+				<trrsrtSe>관광지</trrsrtSe>
+				<rdnmadr>경상남도 하동군 악양면 평사리길 66-7</rdnmadr>
+				<lnmadr>경상남도 하동군 악양면 평사리 483</lnmadr>
+				<latitude>35.15590905</latitude>
+				<longitude>127.688408</longitude>
+				<ar>9529</ar>
+				<cnvnncFclty>화장실(4동)+주차장</cnvnncFclty>
+				<stayngInfo />
+				<mvmAmsmtFclty />
+				<recrtClturFclty />
+				<hospitalityFclty />
+				<sportFclty />
+				<appnDate>2001-01-04</appnDate>
+				<aceptncCo>5000</aceptncCo>
+				<prkplceCo>230</prkplceCo>
+				<trrsrtIntrcn>소설 토지의 최참판댁을 복원하여 전통 건축물 등을 관람 할 수 있음</trrsrtIntrcn>
+				<phoneNumber>055-880-2381</phoneNumber>
+				<institutionNm>경상남도 하동군청</institutionNm>
+				<referenceDate>2022-11-30</referenceDate>
+				<insttCode>5440000</insttCode>
+			</item>
+		</items>
+		<numOfRows>10</numOfRows>
+		<pageNo>1</pageNo>
+		<totalCount>750</totalCount>
+	</body>
+</response>
